@@ -2,7 +2,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 ## About Me ✨
-GSSoC’25 Campus Ambassador<br>Full-Stack Developer | Java Developer<br>Pre-Final Year CSE Student at Chitkara University, Punjab<br>1M+ Views on Tech Content | Tech Content Creator @aarohi.inframe<br>Currently diving into Spring Boot and the MERN Stack 🚀<br>Love building projects, creating tech content, and being part of dev communities 💻✨
+
+I’m a passionate Full‑Stack & Java Developer, Open Source Contributor, and Tech Content Creator with **16K+ community members** on Instagram as **[@aarohi.inframe](https://instagram.com/aarohi.inframe)**   
+
+ **Pre-Final Year CSE Student** at Chitkara University, Punjab  
+ Currently exploring **Spring Boot**, **MERN Stack**, and diving deep into **Open Source**  
+ Contributor to **GirlScript Summer of Code (GSSoC’25)** & **Open Source Connect**  
+ Campus Ambassador at **GSSoC’25**  
+ Creating beginner-friendly tech content, tutorials, and tips across **Instagram, LinkedIn & YouTube**  
+ Love building impactful projects, solving DSA like puzzles, and being part of dev communities
+
+> Whether it's building software or content — I believe in **creating, sharing, and growing** with the community 
+
 
 
 ## Tech Stack 💻
