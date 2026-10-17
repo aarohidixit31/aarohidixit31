@@ -40,7 +40,7 @@ Currently vibing with **Java, Backend Dev, DSA & Open Source**.
 - Exploring **Spring Boot**, **MERN Stack**, and **System Design**
 - Open Source Contributor at **GirlScript Summer of Code (GSSoC’25)** & **Open Source Connect**
 - Campus Ambassador at **GSSoC’25**
-- Tech Content Creator with **21K+ learners** on Instagram — [@aarohi.inframe](https://instagram.com/aarohi.inframe)
+- Tech Content Creator with **50K+ learners** on Instagram — [@aarohi.inframe](https://instagram.com/aarohi.inframe)
 
 <img src="https://user-images.githubusercontent.com/74038190/216655885-0b8f98a6-67f9-41cb-8a5c-0f7fa71c2d70.gif" width="100%"/>
 
