@@ -1,113 +1,111 @@
-<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20&text=AAROHI%20DIXIT&fontSize=92&fontColor=00FFC6&height=280&section=header&animation=twinkling&stroke=00FFC6&strokeWidth=2&desc=backend%20%7C%20distributed%20systems%20%7C%20data%20pipelines&descSize=18&descAlignY=74" width="100%"/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Holaaa!&height=100&width=240&section=header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=00FFC6&center=true&vCenter=true&width=760&lines=%3E+whoami;%3E+backend+engineer+in+training;%3E+forecasting+demand+with+prophet+%2B+lightgbm;%3E+building+creator-os+(fastapi+%2B+react);%3E+teaching+hinglish+dsa+to+40k%2B+students" alt="typing" />
 </p>
 
-<h1 align="center">
- Aarohiii this side !!!
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35"/>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20&height=6&section=header" width="100%"/>
 
----
+```bash
+$ cat about.md
+```
 
-<!-- Intro with right-aligned animation -->
-<img 
-  align="right" 
-  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" 
-  width="360"
-/>
+Pre-final-year CSE student at **Chitkara University** (2027), based in **Hyderabad, India**. Focused on backend services, data pipelines and ML forecasting.
 
-### Let me tell you something 
-### Ofc About me ⊁✨🎀
-
-I’m a **Pre-Final-Year CSE student** who enjoys turning logic into real, working systems  
-and breaking scary tech topics into “ohh this makes sense” moments.  
-When I’m not coding, I’m creating content, helping other students,  
-and leveling up one bug fix at a time.  
-Currently vibing with **Java, Backend Dev, DSA & Open Source**.
-
-##  Sharing what I learn • Growing with the community 
-
-
-<br clear="right"/>
-
----
-
-##  Education & Current Focus
-
-- Pre-Final Year **Computer Science Engineering** student at **Chitkara University, Punjab**
-- Strong foundation in **Java, DSA & Core CS**
-- Exploring **Spring Boot**, **MERN Stack**, and **System Design**
-- Open Source Contributor at **GirlScript Summer of Code (GSSoC’25)** & **Open Source Connect**
-- Campus Ambassador at **GSSoC’25**
-- Tech Content Creator with **50K+ learners** on Instagram — [@aarohi.inframe](https://instagram.com/aarohi.inframe)
-
-<img src="https://user-images.githubusercontent.com/74038190/216655885-0b8f98a6-67f9-41cb-8a5c-0f7fa71c2d70.gif" width="100%"/>
-
----
-
-##  Achievements
-
-- 1st Position in **Full Stack Development Competition** (200+ participants)  
-- Project **DARE** shortlisted (Top 7%) at University Tech Competition  
-- Awarded **Letter of Recommendation** from **GSSoC’25**  
-- Ranked among **Top 30 Campus Ambassadors** (GSSoC’25)  
-- **Gold Medalist** – District Level Mathematics Olympiad  
-
----
-
-##  Publication
-
-**Smart Vehicle Parking Management Systems: A Review of Technologies and Challenges in Urban Mobility**  
-*Taylor & Francis*
-
----
-
-## 🛠 Tech Stack
-
-###  Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-###  Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-###  Backend & Databases
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-###  Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/aarohidixit/  
-- Instagram: https://instagram.com/aarohi.inframe  
-- YouTube: https://www.youtube.com/@aarohi.inframe  
-- LeetCode: https://leetcode.com/u/aarohidixit2831/  
-
----
+```
+focus     : java, spring boot, fastapi, postgresql, system design
+ml        : prophet, lightgbm, xgboost, time-series forecasting
+learning  : .NET (C#), kafka, kubernetes
+open to   : backend, data engineering, developer-tooling collabs
+```
 
 <p align="center">
-  <i>Always learning. Always building. Always sharing.</i>
+  <img src="https://komarev.com/ghpvc/?username=aarohidixit31&style=for-the-badge&color=00FFC6&label=PROFILE+VIEWS" alt="profile views"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20&height=3&section=header" width="100%"/>
+
+## Featured Projects
+
+### creator-os
+Full-stack creator platform: public media kit, collab-inquiry CRM, invoice generator with server-side PDF export.
+
+- Backend: FastAPI, SQLAlchemy, PostgreSQL (Neon)
+- Frontend: React, Vite
+- Deploy: Vercel
+- Live: https://creator-studio-wheat.vercel.app
+
+### demand-forecasting
+Subscription-delivery demand forecasting pipeline.
+
+- Benchmarked Prophet vs LightGBM; selected Prophet for seasonality handling
+- Fixed MAPE inflation caused by sparse-SKU contamination
+- Resolved a rolling-window groupby bug and SQL row inflation in subscription queries
+- Designed the forecast API payload contract
+
+### route-intelligence
+Delivery route analysis and VRP optimization.
+
+- Stack: React, FastAPI, GraphHopper, OR-Tools, Leaflet
+- Fixed GPS waypoint filtering and GraphHopper API path handling
+
+---
+
+## Stack
+
+```yaml
+languages:  [Java, Python, C++, C, JavaScript, TypeScript]
+backend:    [Spring Boot, FastAPI, Django, Node.js, Express, SQLAlchemy]
+frontend:   [React, Vite, Tailwind CSS]
+data:       [PostgreSQL, MySQL, MongoDB, Kafka, Pandas]
+ml:         [Prophet, LightGBM, XGBoost]
+devops:     [Docker, Kubernetes, Git, Vercel, n8n]
+```
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aarohidixit31/aarohidixit31/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
+</p>
+
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aarohidixit31&theme=onedark&no-frame=true&row=1&column=6&margin-w=12" alt="trophies"/>
+</p>
+
+## Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aarohidixit31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarohidixit31&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aarohidixit31&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
+
+## Achievements
+
+- 1st place, Full Stack Development Competition (200+ participants)
+- Top 7%, project DARE shortlisted at university tech competition
+- Letter of Recommendation, GSSoC'25
+- Gold Medalist, District Level Mathematics Olympiad
+
+## Publication
+
+Smart Vehicle Parking Management Systems: A Review of Technologies and Challenges in Urban Mobility (Taylor & Francis)
+
+---
+
+## Links
+
+<a href="https://www.linkedin.com/in/aarohidixit/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/aarohi.inframe"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/@aarohi.inframe"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://leetcode.com/u/aarohidixit2831/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20&height=6&section=footer" width="100%"/>
