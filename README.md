@@ -1,111 +1,115 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20&text=AAROHI%20DIXIT&fontSize=92&fontColor=00FFC6&height=280&section=header&animation=twinkling&stroke=00FFC6&strokeWidth=2&desc=backend%20%7C%20distributed%20systems%20%7C%20data%20pipelines&descSize=18&descAlignY=74" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=00FFC6&center=true&vCenter=true&width=760&lines=%3E+whoami;%3E+backend+engineer+in+training;%3E+forecasting+demand+with+prophet+%2B+lightgbm;%3E+building+creator-os+(fastapi+%2B+react);%3E+teaching+hinglish+dsa+to+40k%2B+students" alt="typing" />
-</p>
+# Aarohi Dixit
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20&height=6&section=header" width="100%"/>
+### Full Stack Developer
 
-```bash
-$ cat about.md
-```
+![Location](https://img.shields.io/badge/Hyderabad%2C_India-1a1a1a?style=for-the-badge)
+![Status](https://img.shields.io/badge/Open_to_Work-1a1a1a?style=for-the-badge)
 
-Pre-final-year CSE student at **Chitkara University** (2027), based in **Hyderabad, India**. Focused on backend services, data pipelines and ML forecasting.
+<br/>
 
-```
-focus     : java, spring boot, fastapi, postgresql, system design
-ml        : prophet, lightgbm, xgboost, time-series forecasting
-learning  : .NET (C#), kafka, kubernetes
-open to   : backend, data engineering, developer-tooling collabs
-```
+Pre-final-year CSE student at Chitkara University (2027). I build full-stack products end to end: APIs, databases, frontends, and the ML pipelines behind them.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarohidixit31&style=for-the-badge&color=00FFC6&label=PROFILE+VIEWS" alt="profile views"/>
-</p>
+**Currently**
+- Building `creator-os`, a full-stack creator platform (FastAPI, React, PostgreSQL)
+- Forecasting subscription demand with Prophet and LightGBM
+- Learning .NET (C#), Kafka, and Kubernetes
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20&height=3&section=header" width="100%"/>
+<br/>
 
-## Featured Projects
+## Projects
 
-### creator-os
-Full-stack creator platform: public media kit, collab-inquiry CRM, invoice generator with server-side PDF export.
+**[creator-os](https://creator-studio-wheat.vercel.app)**
+Full-stack creator platform: public media kit, collab-inquiry CRM, and server-side PDF invoice generation. Deployed on Vercel.
 
-- Backend: FastAPI, SQLAlchemy, PostgreSQL (Neon)
-- Frontend: React, Vite
-- Deploy: Vercel
-- Live: https://creator-studio-wheat.vercel.app
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1a1a1a?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square&logo=vite&logoColor=white)
 
-### demand-forecasting
-Subscription-delivery demand forecasting pipeline.
+**demand-forecasting**
+Demand forecasting pipeline for subscription deliveries.
+- Benchmarked Prophet against LightGBM and selected Prophet for its seasonality handling
+- Diagnosed and fixed MAPE inflation caused by sparse-SKU contamination in training data
+- Resolved a rolling-window groupby bug and a row-count inflation bug in subscription SQL queries
+- Designed the forecast API's payload contract
 
-- Benchmarked Prophet vs LightGBM; selected Prophet for seasonality handling
-- Fixed MAPE inflation caused by sparse-SKU contamination
-- Resolved a rolling-window groupby bug and SQL row inflation in subscription queries
-- Designed the forecast API payload contract
+**route-intelligence**
+Delivery route analysis and vehicle routing optimization.
 
-### route-intelligence
-Delivery route analysis and VRP optimization.
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=white)
+![GraphHopper](https://img.shields.io/badge/GraphHopper-1a1a1a?style=flat-square)
+![OR--Tools](https://img.shields.io/badge/OR--Tools-1a1a1a?style=flat-square)
+![Leaflet](https://img.shields.io/badge/Leaflet-1a1a1a?style=flat-square&logo=leaflet&logoColor=white)
 
-- Stack: React, FastAPI, GraphHopper, OR-Tools, Leaflet
-- Fixed GPS waypoint filtering and GraphHopper API path handling
+- Fixed GPS waypoint filtering and a GraphHopper API path-handling bug
 
----
+<br/>
 
 ## Stack
 
-```yaml
-languages:  [Java, Python, C++, C, JavaScript, TypeScript]
-backend:    [Spring Boot, FastAPI, Django, Node.js, Express, SQLAlchemy]
-frontend:   [React, Vite, Tailwind CSS]
-data:       [PostgreSQL, MySQL, MongoDB, Kafka, Pandas]
-ml:         [Prophet, LightGBM, XGBoost]
-devops:     [Docker, Kubernetes, Git, Vercel, n8n]
-```
+**Languages**
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-1a1a1a?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
 
----
+**Backend**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a1a?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1a1a1a?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1a1a1a?style=flat-square)
 
-## Contribution Graph
+**Frontend**
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aarohidixit31/aarohidixit31/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
-</p>
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-1a1a1a?style=flat-square&logo=apachekafka&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=flat-square&logo=pandas&logoColor=white)
 
-## Trophies
+**ML**
+![Prophet](https://img.shields.io/badge/Prophet-1a1a1a?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-1a1a1a?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-1a1a1a?style=flat-square)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aarohidixit31&theme=onedark&no-frame=true&row=1&column=6&margin-w=12" alt="trophies"/>
-</p>
+**DevOps**
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a1a?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=white)
 
-## Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aarohidixit31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarohidixit31&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aarohidixit31&theme=tokyonight&hide_border=true"/>
-</p>
-
----
+<br/>
 
 ## Achievements
 
 - 1st place, Full Stack Development Competition (200+ participants)
-- Top 7%, project DARE shortlisted at university tech competition
-- Letter of Recommendation, GSSoC'25
-- Gold Medalist, District Level Mathematics Olympiad
+- Top 7%, Project DARE — university tech competition
+- Letter of Recommendation, GSSoC '25
+- Gold Medalist, District-Level Mathematics Olympiad
 
-## Publication
+**Publication:** "Smart Vehicle Parking Management Systems: A Review of Technologies and Challenges in Urban Mobility" — Taylor & Francis
 
-Smart Vehicle Parking Management Systems: A Review of Technologies and Challenges in Urban Mobility (Taylor & Francis)
+<br/>
 
----
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aarohidixit31&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarohidixit31&layout=compact&theme=default&hide_border=true"/>
+</p>
 
-## Links
+<br/>
 
-<a href="https://www.linkedin.com/in/aarohidixit/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/aarohi.inframe"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/@aarohi.inframe"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-<a href="https://leetcode.com/u/aarohidixit2831/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20&height=6&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarohidixit/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aarohidixit2831/)
+[![YouTube](https://img.shields.io/badge/YouTube-1a1a1a?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aarohi.inframe)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aarohi.inframe)
